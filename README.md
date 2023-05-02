@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi friend 👀
 ## I'm Emily
+### I used to 🎻 all the time.
+### Now I 👩🏻‍💻 all the time.
+### I'm obsessed with learning new things.
+
+<p align="left">
+<a href="https://www.linkedin.com/in/emilyscodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emilysheil" height="30" width="40" /></a>
+
 
 <!--
 **emily-s-codes/emily-s-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
