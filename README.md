@@ -1,15 +1,21 @@
+<div align="center">
 <h1>Hi 👀 I'm Emily</h1>
+<img src="https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif" width="80%"/>
+</div>
 
-<h2>I used to 🎻 all the time, now I 
+<h2 height="200">I used to 🎻 all the time, now I 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" />
 all the time.</h2>
-<hr>
+
+
+---
+
 <h3>I primarily build my fullstack projects with
 <br>
 <br>
-<div style="display:flex; margin:10px 0 30px 0">
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>         
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="background-color:white; height:36px; padding:2px" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
@@ -17,16 +23,14 @@ all the time.</h2>
            </div> </h3>
            <!-- This was super annoying! The inline styling for the express icon doesn't work within the div unless the div is also within the h-tag. I have no idea why.-->
 <h3>... and I also use</h3>
-<div style="display:flex; gap:30px; margin:10px 0 30px 0">
+<div >
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 </div>
-
-<hr>
 <p>I'm obsessed with learning new things. I'm currently diving deeper into:
-<div style="display:flex; gap:30px; margin:10px 0 30px 0">
+<div >
 <h2> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="36" style="background-color: white; padding:2px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
@@ -34,7 +38,9 @@ all the time.</h2>
 </h2>
 </div>
 
-<p align="left">
+---
+
+<p align="right">
 <a href="https://www.linkedin.com/in/emilyscodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emilysheil" height="20px" /></a>
 
 
