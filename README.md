@@ -40,8 +40,13 @@ all the time.</h2>
 
 ---
 
-<p align="right">
-<a href="https://www.linkedin.com/in/emilyscodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emilysheil" height="20px" /></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emily-s-codes&langs_count=4&hide_progress=true&theme=shades-of-purple)](https://github.com/emily-s-codes/github-readme-stats)
+
+---
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emily-s-codes&theme=shades-of-purple&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 
 
 <!--
