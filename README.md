@@ -14,10 +14,9 @@ all the time.</h2>
   <h2>🗳️ Featured Project: <a href="https://yourvoice.ie">Your Voice</a></h2>
 
 <ul>
-  <li>A civic engagement platform that helps Irish citizens find their local political representatives — TDs, MEPs, and Seanadóirí — based on their constituency</li>
-  <li>Built with Next.js / TypeScript frontend and a PHP backend, using real electoral data to match users to their elected officials</li>
-  <li>Makes contacting your representatives easy by providing pre-composed constituent emails you can send directly from the site</li>
-  <li>Tested with PHPUnit on the backend (unit and integration tests, with injection-friendly architecture to avoid real SMTP/DB calls in CI) and Jest on the frontend</li>
-  <li>GitHub Actions pipelines run linting and the full test suite on every push, then deploy frontend and backend via FTPS to staging and production environments — deploy only runs if CI passes</li>
+  <li>A civic engagement platform that helps Irish citizens contact their local political representatives — TDs, MEPs, and Seanadóirí — based on their constituency</li>
+  <li>Designed for grassroots campaigns: embed targeted, pre-composed messages that automatically route to the right officials for each constituent's location</li>
+  <li>EU-first tools put privacy and security of user data first</li>
+  <li>Built with Next.js / TypeScript frontend and a PHP backend, CI/CD via GitHub Actions and SMTP via <a href="https://www.remails.com/">Remails</a></li>
 </ul>
 </div>
