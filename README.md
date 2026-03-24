@@ -11,7 +11,7 @@ all the time.</h2>
 </div align="left">
 
 <div>
-  <h2>🗳️ Featured Project: <a href="https://yourvoice.ie">Your Voice</a></h2>
+<h2>🗳️ Featured Project: <a href="https://yourvoice.ie" target="_blank" rel="noopener noreferrer">Your Voice</a></h2>
 
 <ul>
   <li>A civic engagement platform that helps Irish citizens contact their local political representatives — TDs, MEPs, and Seanadóirí — based on their constituency</li>
